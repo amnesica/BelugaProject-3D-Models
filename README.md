@@ -46,5 +46,6 @@ List of used aircraft with source:
 | Embraer E190                      | [link](https://github.com/FGMEMBERS/E-jet-family)  | FGMEMBERS             |
 | Eurocopter EC135                  |     [link](https://github.com/FGMEMBERS/ec135)     | FGMEMBERS             |
 | International Space Station (ISS) |           [link](https://skfb.ly/o8ODZ)            | Content House Studios |
+| McDonnell Douglas MD-11           |     [link](https://github.com/Octal450/MD-11)      | Octal450              |
 | Schleicher ASK-21                 |     [link](https://github.com/FGMEMBERS/ASK21)     | FGMEMBERS             |
 | Piper PA-28                       |  [link](https://github.com/FGMEMBERS/Piper-PA-28)  | FGMEMBERS             |
