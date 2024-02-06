@@ -40,6 +40,7 @@ List of used aircraft with source:
 | Boeing 777-300                    |      [link](https://github.com/FGMEMBERS/777)       | FGMEMBERS             |
 | Boeing 787-800                    |     [link](https://github.com/FGMEMBERS/787-8)      | FGMEMBERS             |
 | Boeing 787-900                    |     [link](https://github.com/FGMEMBERS/787-9)      | FGMEMBERS             |
+| Boeing E-3 Sentry                 |      [link](https://github.com/FGMEMBERS/707)       | FGMEMBERS             |
 | Britisch Aerospace BAe-146        |   [link](https://github.com/FGMEMBERS/Jumbolino)    | FGMEMBERS             |
 | Cessna C172P                      | [link](https://github.com/FGMEMBERS/c172p-detailed) | FGMEMBERS             |
 | Cessna Citation II                |    [link](https://github.com/FGMEMBERS/Citation)    | FGMEMBERS             |
