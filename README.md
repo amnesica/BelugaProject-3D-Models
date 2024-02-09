@@ -53,5 +53,6 @@ List of used aircraft with source:
 | International Space Station (ISS) |            [link](https://skfb.ly/o8ODZ)            | Content House Studios |
 | McDonnell Douglas MD-11           |      [link](https://github.com/Octal450/MD-11)      | Octal450              |
 | Schleicher ASK-21                 |     [link](https://github.com/FGMEMBERS/ASK21)      | FGMEMBERS             |
+| Northrop T-38 Talon               |      [link](https://github.com/FGMEMBERS/T38)       | FGMEMBERS             |
 | Piper PA-28                       |  [link](https://github.com/FGMEMBERS/Piper-PA-28)   | FGMEMBERS             |
 | Transall C-160                    | [link](https://github.com/FGMEMBERS/C-160-Transall) | FGMEMBERS             |
