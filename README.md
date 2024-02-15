@@ -27,7 +27,7 @@ List of used aircraft with source:
 | Bombardier Dash 8                     |      [link](https://github.com/FGMEMBERS/Q400)      |         | FGMEMBERS             |
 | Boeing 737-600                        |     [link](https://github.com/FGMEMBERS/737NG)      |         | FGMEMBERS             |
 | Boeing 737-700                        |     [link](https://github.com/FGMEMBERS/737NG)      |         | FGMEMBERS             |
-| Boeing 737-800                        |    [link](https://github.com/FGMEMBERS/737-800)     |         | FGMEMBERS             |
+| Boeing 737-800                        |    [link](https://github.com/FGMEMBERS/737-800)     | ✔       | FGMEMBERS             |
 | Boeing 737-900                        |     [link](https://github.com/FGMEMBERS/737NG)      |         | FGMEMBERS             |
 | Boeing 747-400                        |    [link](https://github.com/FGMEMBERS/747-400)     |         | FGMEMBERS             |
 | Boeing 747-8                          |     [link](https://github.com/FGMEMBERS/747-8i)     |         | FGMEMBERS             |
