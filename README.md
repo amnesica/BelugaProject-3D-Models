@@ -43,7 +43,7 @@ List of used aircraft with source:
 | Boeing C-17 Globemaster III           |      [link](https://github.com/FGMEMBERS/C-17)      |         | FGMEMBERS             |
 | Boeing E-3 Sentry                     |      [link](https://github.com/FGMEMBERS/707)       |         | FGMEMBERS             |
 | Britisch Aerospace BAe-146            |   [link](https://github.com/FGMEMBERS/Jumbolino)    |         | FGMEMBERS             |
-| Cessna C172P                          | [link](https://github.com/FGMEMBERS/c172p-detailed) |         | FGMEMBERS             |
+| Cessna C172P                          | [link](https://github.com/FGMEMBERS/c172p-detailed) | ✔       | FGMEMBERS             |
 | Cessna Citation II                    |    [link](https://github.com/FGMEMBERS/Citation)    |         | FGMEMBERS             |
 | Cesium Air (Default plane)            |     [link](https://github.com/CesiumGS/cesium)      |         | CesiumGS              |
 | Embraer E170                          |  [link](https://github.com/FGMEMBERS/E-jet-family)  |         | FGMEMBERS             |
