@@ -14,7 +14,7 @@ List of used aircraft with source:
 | Airbus A330-300                       |    [link](https://github.com/FGMEMBERS/A330-300)    |         | FGMEMBERS             |
 | Airbus A340-300                       |   [link](https://github.com/FGMEMBERS/A340-313X)    |         | FGMEMBERS             |
 | Airbus A340-600                       |  [link](https://github.com/FGMEMBERS/A340-600HGW)   |         | FGMEMBERS             |
-| Airbus A350                           |    [link](https://github.com/FGMEMBERS/A350XWB)     |         | FGMEMBERS             |
+| Airbus A350                           |    [link](https://github.com/FGMEMBERS/A350XWB)     | ✔       | FGMEMBERS             |
 | Airbus A380                           |   [link](https://github.com/FGMEMBERS/A380-omega)   | ✔       | FGMEMBERS             |
 | Airbus A300-600ST Beluga              |   [link](https://github.com/FGMEMBERS/A300-600ST)   |         | FGMEMBERS             |
 | Airbus A330-700 Beluga XL             |            [link](https://skfb.ly/oL7DN)            |         | rylanmorris           |
