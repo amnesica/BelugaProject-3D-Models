@@ -49,7 +49,7 @@ List of used aircraft with source:
 | Cesium Air (Default plane)            |                   [link](https://github.com/CesiumGS/cesium)                    |         | CesiumGS                                                          |
 | Embraer E170                          |                [link](https://github.com/FGMEMBERS/E-jet-family)                |         | FGMEMBERS                                                         |
 | Embraer E190                          |                [link](https://github.com/FGMEMBERS/E-jet-family)                |         | FGMEMBERS                                                         |
-| Eurocopter EC135                      |                   [link](https://github.com/FGMEMBERS/ec135)                    |         | FGMEMBERS                                                         |
+| Eurocopter EC135                      |                   [link](https://github.com/FGMEMBERS/ec135)                    | ✔       | FGMEMBERS                                                         |
 | Eurofighter Typhoon                   |                [link](https://github.com/FGMEMBERS/eurofighter)                 |         | FGMEMBERS                                                         |
 | General Dynamics F-16 Fighting Falcon |                    [link](https://github.com/FGMEMBERS/f16)                     |         | FGMEMBERS                                                         |
 | International Space Station (ISS)     | [link](https://science.nasa.gov/resource/international-space-station-3d-model/) |         | NASA Visualization Technology Applications and Development (VTAD) |
