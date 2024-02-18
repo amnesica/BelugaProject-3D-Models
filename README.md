@@ -19,6 +19,7 @@ List of used aircraft with source:
 | Airbus A300-600ST Beluga              |                 [link](https://github.com/FGMEMBERS/A300-600ST)                 |         | FGMEMBERS                                                         |
 | Airbus A330-700 Beluga XL             |                          [link](https://skfb.ly/oL7DN)                          |         | rylanmorris                                                       |
 | Airbus A400M Atlas                    |                   [link](https://github.com/FGMEMBERS/a400m)                    |         | FGMEMBERS                                                         |
+| Antonov An-124 Ruslan                 |                   [link](https://github.com/FGMEMBERS/An-124)                   |         | FGMEMBERS                                                         |
 | ATR ATR-42                            |                 [link](https://github.com/FGMEMBERS/ATR-42-500)                 |         | FGMEMBERS                                                         |
 | Bombardier CRJ700                     |               [link](https://github.com/FGMEMBERS/CRJ700-family)                |         | FGMEMBERS                                                         |
 | Bombardier CRJ900                     |               [link](https://github.com/FGMEMBERS/CRJ700-family)                |         | FGMEMBERS                                                         |
