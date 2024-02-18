@@ -54,6 +54,7 @@ List of used aircraft with source:
 | General Dynamics F-16 Fighting Falcon |                    [link](https://github.com/FGMEMBERS/f16)                     |         | FGMEMBERS                                                         |
 | International Space Station (ISS)     | [link](https://science.nasa.gov/resource/international-space-station-3d-model/) |         | NASA Visualization Technology Applications and Development (VTAD) |
 | McDonnell Douglas MD-11               |                    [link](https://github.com/Octal450/MD-11)                    |         | Octal450                                                          |
+| Rockwell B-1 Lancer                   |                    [link](https://github.com/FGMEMBERS/B-1B)                    |         | FGMEMBERS                                                         |
 | Schleicher ASK-21                     |                   [link](https://github.com/FGMEMBERS/ASK21)                    |         | FGMEMBERS                                                         |
 | Northrop T-38 Talon                   |                    [link](https://github.com/FGMEMBERS/T38)                     |         | FGMEMBERS                                                         |
 | Piper PA-28                           |                [link](https://github.com/FGMEMBERS/Piper-PA-28)                 |         | FGMEMBERS                                                         |
